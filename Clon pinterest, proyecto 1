@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="clonpinterest.css">
+    <title>PinterestLaSarkStore</title>
+</head>
+<body>
+    <main>
+        <div class="Image-container">
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/7768661/pexels-photo-7768661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto de comic">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/8014473/pexels-photo-8014473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto dino 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5257329/pexels-photo-5257329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto soldados">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/13825222/pexels-photo-13825222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto dino 2">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/7422160/pexels-photo-7422160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto funko brabit">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/11854580/pexels-photo-11854580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto cartas yugioh">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5795420/pexels-photo-5795420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto de repisa">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5402711/pexels-photo-5402711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto harry 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/7248316/pexels-photo-7248316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto groot 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/12328057/pexels-photo-12328057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto de comic 2">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/8281125/pexels-photo-8281125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="vocho 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5795425/pexels-photo-5795425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto bby yoda 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/9560277/pexels-photo-9560277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="carta blastoise">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5402710/pexels-photo-5402710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="mapas">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5795424/pexels-photo-5795424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="juguetes en estante 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/11111491/pexels-photo-11111491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="camara video viejita">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/11648329/pexels-photo-11648329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto de cabezones">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/5795416/pexels-photo-5795416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="fotos funkos raperos">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/9560279/pexels-photo-9560279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto carta newtwo">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/380782/pexels-photo-380782.jpeg" alt="foto relojes 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/2191013/pexels-photo-2191013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto vinilos 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/3747505/pexels-photo-3747505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto libros 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto libros 2">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/2553427/pexels-photo-2553427.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto libros 3">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/7245308/pexels-photo-7245308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto esculturas 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/6243227/pexels-photo-6243227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Foto piedras 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto mario 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/191360/pexels-photo-191360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="foto casita 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/1319572/pexels-photo-1319572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="fotos animalitos 1">
+                </div>
+            </div>
+            <div class="Image">
+                <div class="card-info">
+                    <div class="boton">
+                        Guardar
+                    </div>
+                    <img src="https://images.pexels.com/photos/7708406/pexels-photo-7708406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="fotos">
+                </div>
+            </div>
+        </div>
+    </main>
+    <div class="Header">
+        <div class="logo">
+            <a href="https://www.pinterest.com.mx/"><img
+                    src="https://cdn-icons-png.flaticon.com/512/25/25698.png" alt="logo pinterest"></a>
+        </div>
+        <nav>
+            <div class="buscar">
+                <input type="text">
+            </div>
+            <ul class="links">
+                <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6378/6378141.png" alt="perfil"></a>
+                <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAilBMVEUdHR3///8AAADW1tYaGhrz8/MmJiahoaEYGBgVFRUREREPDw+5ubkUFBQQEBD7+/sICAjl5eXs7OzNzc3n5+c7OzuXl5cwMDBPT0+Dg4PT09NlZWVubm5FRUVSUlJ1dXVdXV3Dw8OLi4s+Pj6dnZ0zMzOzs7MjIyO0tLSRkZFhYWF7e3upqamGhoYenv2VAAAK3klEQVR4nO2d63qqPBCFMQYLohU8Ww/VWutuu/f9394HWjyRNUmUBPo9WT/6q0JeMpnMTALxGv93eVU3wLgc4e+XIyxXSXOwGTSHVu9pkXDwOuqyTHz51rR3W2uEnRaLAu5l4mHMlgNbN7ZEmExZ4F0qZPO+nVvbIey0n71bxfsXK/e2QvjBeAHQ8wK2sXFzDUK/M57Nxh194+oIAdPxyPQHY//YCF/9F8qEzdfUC8Zx+meuaV1JJAZMe3Gv+bhe5nkjFsreWJVwzOK8nRGbaTVr2QaA6Vhca11pxqK8+yP2pvgjRcLFlaGxqUazOgwCplfaaFxpenUltuop/UqJsPd100qm8exHIUEYLtUvtL5pRLxUGo0qhL1VoRvYu2q7BlQXphdSHtTvhQvFWxVEBcLeNC40jHNVHzEr/viqlf8Ur9PnRX8VqSDKCXtLURvZWK1hvSVlpBpmOhbZQjSSI0oJRT2o0bI+3YUejxWNYSp8UtFW6m6khMUx+NOJapNukx6G6XXUJjYfXCeeyhBlhLdeVLdlGynhRuk6CbqOdEqVEH7DBipGXORseLhOR+k62BbY4hHCT9w+xT4sixD2YXoFOrohCf8SzVMch2UR+iB6P1zi772EG+Kqqr60LMLGqktcY3MfYcID4qKK82FphJQ9BUFyD2FvhHMCj4eKBbPSCP0WNiivO8JzBiacU3O1aheWR0h2ohfP9QmFUdKpWcq5RXmEjVeyRfCRI8IB4WXS/FAtNesPPqfEWD4omH4OFGsScwKRwyQFEPotysusVQD7nXmLMRlgVpBira8/StEp1YvhBDwnQLgmBiHDNn9W5ytiz4QZXIm32fPXRuGqOMRKh+KXDuETNdVLoqRUyWfE2qp4J8hwLPfPFCKY+IWESUwEENIebC4YNYgxJGOv0lCQQOSR8AkJCVd4JpSOweb6VBDTV8TmMsYFRoyEHl5EWKyInC8iqbIN54yIExT0zBYSp0O4CPakRkiE8d0J2YO98QP9lytmY/omW3gPzgR2KiCcwl4I9qQvGEzuGn/Fdo7I3LM/gaUfkZ0WCT9gF+JZNVPvVWHyU1NIV9Wb2BEKsowCoahql/+cCrCae1l8piM2oTwOLo3wfWHeLxDOcLmAyqWfSuvAo0L2QdwNB83sU0aI6yFUySe10DJG4KU4aakw8eHxbap4S7hGbiZo4fjY35Zpobmo+N6H3ia6jUhuCLGFE7W1pFVcwy5D8Qi77hdoNLcNvSHcodFEpLxNjyihPKT2BFcnYFhyW0G6JvyDftbdYsCIXpl4RF0PI8KF15sZ44qwNwJdyBm8U7NkJ3qtEN94iOz0phOvCGEpBFckm4FJwLS5LTgWcWuv5u1Lwt4EtLa9QnfpT0yNwVzPeI0QpUDXnXhJCEchruDjKLg0xfDxwhThaiReEqLaTDFOyAVXpsoUe0W3R8sqV514QYjmQr5HdyArjuUJewHYJxcpwgXhFAwpGHCTFccSxeEoQdXY9kVV6kz4gv4bjQN/b9aNnhXuUPyGnM3FJHMmfAVOAyaFa/Ne5tQGVN9D3XKRB50I+4HY5J5RbQ16XhOC62dz8WPm5/rwiRCVSNEY6Ht2BuFRMLNB2R77UyAEMXchGcm1kGwjKVnsG7VD3IndU1EwJ4QGDeJCyWau8oXcAZr2Tw3PCb/FXQJHIbkfz4S6qFI7Fyenp3QvJwRTG8p7cUHOmNC0DKzvFKf8EIKpswvmwl5o080cFbRAJ4LCS945Ht3V4LkRdX9zQsEb6J34+5IQbAPgLXEs4aM0y6gCsB2hJ2588BMIHQlB0I2SCmp50aBQCRUkAD/e90gIIjYmXgaCxQ7DQruU+sBM386EwEhD4KCl+w1NCXl28X6pcNk7EQKHi6xCvJnVgtqg7A7mruOkfyAUGzKPxbEgsb5oWmjYiPdEHJ3vgVC8FzsCKcs/uxHppVBdWuxH2vOcEOwwBpMhcM5WFEzEhOIpkbOcUOw50AsH1mPuS4H4G6Ryh//2oNm1wQ4cVAuwohgkUXNh5HbYuZARboXDEARJ/qQ6I8VxjdibHnxvSuiLw2iQ3FdqpLBVYv9+yC881GYOQvkKPWkmFEiKLSt7Hh6KMiNg8dtqIrZcKHITZ/DZdOChSgeYK0AMaE/gHQHxfJG9N+ah+R4UaCpI7m/aJX7yQ2G7uuuMsL8XmTAPgTVUOVdkisEWDeGMGOz8lFBccUQlqAoDmqNQWCMea3GSEortDrwkil4hsygwEMWFlTTf8kBiAcroFc+Gh5aJk0Rx6JkmgB5YZhTtY2xUVr+4apk41hI7+fSfPXGjOVgnADV0m4rES8LiaDL1vJ7Y8Logm5a81WtDqLayFpUy0qDGE2ceIDiqNuw+ioMXK0Sj7ThbCC0PBbjVG6nH2+JYRDTr/cQ0gjoUWtmWvrdsQ2hFs7jifdj3neWHxQ3+6CLS97RsCK0HFx//oaxzqESNbowPbu+oZL3iVvCLFbfbwNihSnEg7F/tgOV4p2XFyeFR+EMT71e7CNn8XBFu+AvW/fGSnBEb1iut0eQCE2KmTZAz8jjvp3yFdLCKj1/v8f4RbwOKCz6W1abevHqfsOM34b7zoOy8n2a4+ZzNngbk+yrUC9XWhJZtf9TcPD39eTljaH3rS/ahEjsKFd9gvYuwomW1awXy75ncTejvqg/aUiey0/iWmS5hDcJSHJiWQlh5DSMTyuwcoSN0hPbkCB2hI6xejtAROsLq5QgdoSOsXo7QETrC6uUIHaEjrF6O0BE6wurlCB2hI6xejtAROsLq5QgdoSOsXo7QETrC6uUIHaEjrF6O0BE6wurlCB2hI6xeJgmTCj7qWRQPiTM5HyP0d3V4dS37vLdOJ2oQ+pM6vF+Z6VnnzSd1wn5tAFPEnerh9RqEwxoBZsfGKyOqEvr7OgGmiMpjUZGw36rDG8CXUkZUI6yXiR4VbdUMVYlw2KofYIao1IsqhP193Uz0qIg4q1qLMDF2JtejikYKvSgnTGrnZM6KlnJEKeGwtj2YKV5KDVVGmPB6xKJIckQJYeLVGzBDlBgqTTisqRe9VLyie5EmHNVxHrwVPtNLTmjpTK5HRRyvKSH0hd/9rJ/oD9ZQhFZPdHpAxfNjVQlr8VUoFZFnB1OElZ2BoCv0XVoZoV+LLwqpiPj6F0lYj28mqehewnp82UtFMXViOEVY+XefVQVP1pMRVnaejKZ4SNUz/g8zPjzfT0pYh+8iqwif+ywl/CWRN+VnpNlTrRP8oxg4S0WNsJG0am6o/OcrpXcTNvxXFtd24udd5sHTkFUJG43mbMtqqmj1JK97q1SEe/2kWUcNS6t5/245wt8vR/j75Qh/vxzh75cjvF/+k4ak8fP9MkfY14mhwUFcZcgcYU98NqhQ6PyfMmRwHGocT44O5i1DBgk1CsqHI1ENySChxvoqvcb5mAwSapxCx7TOc9CTyfmQqboadKJ4KTJJOFM9WYg4u+dxmSRUPeGLtwwaqdmoba62eGXSkxomFJzoJlCg94aIrsxG3jMVRKOj0DRhbyLf7MAMxjOZDGdPTemM0d2ZdDMN8/lhR4IYelovMd0h4xnwB4nY3YOTFsuT+Rx/w/BYjCfiQ3nLlIUqRnMHPCpnc6PzxFE26jS9NxYVTZWzgNqOVprsVKKSBWPX+XCX7d8sdGDDXq0tGe8Yiw/voPJuzNjqrx0+q9XE5ONtPWp5k+183FF/ffBh/QepfsSatQqdcQAAAABJRU5ErkJggg==" alt="notificaciones"></a>
+                <a href="#"><img src="https://w7.pngwing.com/pngs/210/377/png-transparent-conversation-text-computer-icons-message-cool-icon-cdr-white-text.png" alt="message"></a>
+            </ul>
+        </nav>
+
+    </div>
+</body>
+</html>
